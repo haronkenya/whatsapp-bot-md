@@ -1,5 +1,5 @@
 {
-  "name": "levanter@5.2.3",
+  "name": "Illı HARON Illı",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -32,7 +32,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "❤️,Illı HARON Illı"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
